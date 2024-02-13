@@ -1,0 +1,8 @@
+org\example\webbapp_30_01_24\JAXRSConfiguration.class
+servlets\SearchStudentServlet.class
+servlets\DbConnector.class
+servlets\AssociationServlet.class
+servlets\CourseServlet.class
+servlets\StudentServlet.class
+servlets\HomeServlet.class
+org\example\webbapp_30_01_24\resources\JavaEE8Resource.class

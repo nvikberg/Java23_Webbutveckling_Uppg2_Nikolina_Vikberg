@@ -1,0 +1,111 @@
+
+body {
+background-color: #5B6658;
+}
+
+
+table {
+width: 100%;
+}
+
+
+th, td {
+text-align: center;
+vertical-align: middle;
+}
+
+tr:nth-child(even) {
+background-color: #DBDBD1;
+}
+
+.table-heading {
+font-size: 24px;
+border-bottom: 1px solid #000000;
+}
+
+
+a {
+font-size: 1.2rem;
+text-decoration: none;
+color: #d3d3d3;
+}
+
+.navbar {
+text-align: center;
+margin: 10px;
+padding: 5px;
+margin: auto;
+color: #d3d3d3;
+}
+
+a:hover {
+color: #c79048;
+}
+
+label {
+color: #d3d3d3;
+}
+
+.bg-white {
+margin-top: 5px;
+max-width: 60%;
+margin: auto;
+padding: 20px;
+background-color: white;
+border-radius: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+position: relative;
+}
+
+.form-container {
+border-radius:0px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: auto;
+width:200px;
+}
+
+
+.form-container input[type='text'] {
+display: block;
+margin-bottom: -10px;
+margin-right: 10px;
+}
+
+input[type=text] {
+padding:10px;
+margin:5px 0;
+margin-bottom: 40;
+border:0;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.3)
+}
+
+input[type=text]:focus {
+background-color: #ebd7be;
+}
+
+input[type="submit"] {
+background-color: #c79048;
+color: #fff;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+display: block;
+margin: auto;
+cursor: pointer;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2)
+
+}
+
+input[type=submit]:hover {
+background-color: #ebd7be;
+}
+
+
+.rounded-input {
+padding:10px;
+border-radius:10px;
+}
+
+

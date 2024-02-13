@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:10:05:12 +0100] "GET /home HTTP/1.1" 200 - http-bio-9999-exec-1 337
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:10:05:13 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9999-exec-3 6
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:10:05:20 +0100] "GET /addstudent HTTP/1.1" 200 - http-bio-9999-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:10:06:01 +0100] "GET / HTTP/1.1" 200 446 http-bio-9999-exec-5 0
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:10:06:13 +0100] "GET /addstudent HTTP/1.1" 200 - http-bio-9999-exec-6 0
+0:0:0:0:0:0:0:1 - - [06/Feb/2024:10:07:11 +0100] "GET /studentcourses HTTP/1.1" 500 6334 http-bio-9999-exec-8 16

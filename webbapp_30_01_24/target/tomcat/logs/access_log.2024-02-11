@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [11/Feb/2024:05:56:51 +0100] "POST /studentcourses HTTP/1.1" 200 3787 http-bio-9999-exec-1 224
+0:0:0:0:0:0:0:1 - - [11/Feb/2024:05:56:51 +0100] "GET /styles.css HTTP/1.1" 304 - http-bio-9999-exec-2 3
